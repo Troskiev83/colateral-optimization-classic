@@ -1,0 +1,2172 @@
+{
+    "data":{
+        
+    "assets": [
+        {
+            "asset_id": 1,
+            "available_quantity": 136,
+            "market_value": 30.91,
+            "tier_rating": 0.52
+        },
+        {
+            "asset_id": 2,
+            "available_quantity": 103,
+            "market_value": 65.52,
+            "tier_rating": 0.72
+        },
+        {
+            "asset_id": 3,
+            "available_quantity": 66,
+            "market_value": 11.96,
+            "tier_rating": 0.79
+        },
+        {
+            "asset_id": 4,
+            "available_quantity": 247,
+            "market_value": 56.21,
+            "tier_rating": 0.93
+        },
+        {
+            "asset_id": 5,
+            "available_quantity": 195,
+            "market_value": 46.92,
+            "tier_rating": 0.6
+        },
+        {
+            "asset_id": 6,
+            "available_quantity": 118,
+            "market_value": 53.32,
+            "tier_rating": 0.53
+        },
+        {
+            "asset_id": 7,
+            "available_quantity": 71,
+            "market_value": 49.84,
+            "tier_rating": 0.7
+        },
+        {
+            "asset_id": 8,
+            "available_quantity": 394,
+            "market_value": 27.32,
+            "tier_rating": 0.87
+        },
+        {
+            "asset_id": 9,
+            "available_quantity": 470,
+            "market_value": 47.9,
+            "tier_rating": 0.94
+        },
+        {
+            "asset_id": 10,
+            "available_quantity": 343,
+            "market_value": 82.77,
+            "tier_rating": 0.6
+        },
+        {
+            "asset_id": 11,
+            "available_quantity": 311,
+            "market_value": 45.93,
+            "tier_rating": 0.81
+        },
+        {
+            "asset_id": 12,
+            "available_quantity": 319,
+            "market_value": 58.77,
+            "tier_rating": 0.92
+        },
+        {
+            "asset_id": 13,
+            "available_quantity": 174,
+            "market_value": 11.47,
+            "tier_rating": 0.81
+        },
+        {
+            "asset_id": 14,
+            "available_quantity": 444,
+            "market_value": 79.56,
+            "tier_rating": 0.84
+        },
+        {
+            "asset_id": 15,
+            "available_quantity": 220,
+            "market_value": 28.51,
+            "tier_rating": 0.85
+        },
+        {
+            "asset_id": 16,
+            "available_quantity": 281,
+            "market_value": 29.57,
+            "tier_rating": 0.66
+        },
+        {
+            "asset_id": 17,
+            "available_quantity": 170,
+            "market_value": 37.55,
+            "tier_rating": 0.91
+        },
+        {
+            "asset_id": 18,
+            "available_quantity": 302,
+            "market_value": 18.36,
+            "tier_rating": 0.87
+        },
+        {
+            "asset_id": 19,
+            "available_quantity": 345,
+            "market_value": 96.86,
+            "tier_rating": 0.68
+        },
+        {
+            "asset_id": 20,
+            "available_quantity": 270,
+            "market_value": 52.59,
+            "tier_rating": 0.99
+        }
+    ],
+    "accounts": [
+        {
+            "account_id": 1,
+            "collateral_requirement": 2540
+        },
+        {
+            "account_id": 2,
+            "collateral_requirement": 1936
+        },
+        {
+            "account_id": 3,
+            "collateral_requirement": 3058
+        },
+        {
+            "account_id": 4,
+            "collateral_requirement": 4733
+        },
+        {
+            "account_id": 5,
+            "collateral_requirement": 3946
+        },
+        {
+            "account_id": 6,
+            "collateral_requirement": 1781
+        },
+        {
+            "account_id": 7,
+            "collateral_requirement": 4756
+        },
+        {
+            "account_id": 8,
+            "collateral_requirement": 3870
+        },
+        {
+            "account_id": 9,
+            "collateral_requirement": 3057
+        },
+        {
+            "account_id": 10,
+            "collateral_requirement": 1133
+        }
+    ],
+    "haircut_matrix": [
+        {
+            "asset_id": 1,
+            "account_id": 1,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 1,
+            "account_id": 2,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 1,
+            "account_id": 3,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 1,
+            "account_id": 4,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 1,
+            "account_id": 5,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 1,
+            "account_id": 6,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 1,
+            "account_id": 7,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 1,
+            "account_id": 8,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 1,
+            "account_id": 9,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 1,
+            "account_id": 10,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 2,
+            "account_id": 1,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 2,
+            "account_id": 2,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 2,
+            "account_id": 3,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 2,
+            "account_id": 4,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 2,
+            "account_id": 5,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 2,
+            "account_id": 6,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 2,
+            "account_id": 7,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 2,
+            "account_id": 8,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 2,
+            "account_id": 9,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 2,
+            "account_id": 10,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 3,
+            "account_id": 1,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 3,
+            "account_id": 2,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 3,
+            "account_id": 3,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 3,
+            "account_id": 4,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 3,
+            "account_id": 5,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 3,
+            "account_id": 6,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 3,
+            "account_id": 7,
+            "haircut": 0.92
+        },
+        {
+            "asset_id": 3,
+            "account_id": 8,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 3,
+            "account_id": 9,
+            "haircut": 0.7
+        },
+        {
+            "asset_id": 3,
+            "account_id": 10,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 4,
+            "account_id": 1,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 4,
+            "account_id": 2,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 4,
+            "account_id": 3,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 4,
+            "account_id": 4,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 4,
+            "account_id": 5,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 4,
+            "account_id": 6,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 4,
+            "account_id": 7,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 4,
+            "account_id": 8,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 4,
+            "account_id": 9,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 4,
+            "account_id": 10,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 5,
+            "account_id": 1,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 5,
+            "account_id": 2,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 5,
+            "account_id": 3,
+            "haircut": 0.7
+        },
+        {
+            "asset_id": 5,
+            "account_id": 4,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 5,
+            "account_id": 5,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 5,
+            "account_id": 6,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 5,
+            "account_id": 7,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 5,
+            "account_id": 8,
+            "haircut": 0.92
+        },
+        {
+            "asset_id": 5,
+            "account_id": 9,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 5,
+            "account_id": 10,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 6,
+            "account_id": 1,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 6,
+            "account_id": 2,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 6,
+            "account_id": 3,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 6,
+            "account_id": 4,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 6,
+            "account_id": 5,
+            "haircut": 0.7
+        },
+        {
+            "asset_id": 6,
+            "account_id": 6,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 6,
+            "account_id": 7,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 6,
+            "account_id": 8,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 6,
+            "account_id": 9,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 6,
+            "account_id": 10,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 7,
+            "account_id": 1,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 7,
+            "account_id": 2,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 7,
+            "account_id": 3,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 7,
+            "account_id": 4,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 7,
+            "account_id": 5,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 7,
+            "account_id": 6,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 7,
+            "account_id": 7,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 7,
+            "account_id": 8,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 7,
+            "account_id": 9,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 7,
+            "account_id": 10,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 8,
+            "account_id": 1,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 8,
+            "account_id": 2,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 8,
+            "account_id": 3,
+            "haircut": 0.84
+        },
+        {
+            "asset_id": 8,
+            "account_id": 4,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 8,
+            "account_id": 5,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 8,
+            "account_id": 6,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 8,
+            "account_id": 7,
+            "haircut": 0.92
+        },
+        {
+            "asset_id": 8,
+            "account_id": 8,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 8,
+            "account_id": 9,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 8,
+            "account_id": 10,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 9,
+            "account_id": 1,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 9,
+            "account_id": 2,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 9,
+            "account_id": 3,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 9,
+            "account_id": 4,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 9,
+            "account_id": 5,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 9,
+            "account_id": 6,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 9,
+            "account_id": 7,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 9,
+            "account_id": 8,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 9,
+            "account_id": 9,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 9,
+            "account_id": 10,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 10,
+            "account_id": 1,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 10,
+            "account_id": 2,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 10,
+            "account_id": 3,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 10,
+            "account_id": 4,
+            "haircut": 0.84
+        },
+        {
+            "asset_id": 10,
+            "account_id": 5,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 10,
+            "account_id": 6,
+            "haircut": 0.92
+        },
+        {
+            "asset_id": 10,
+            "account_id": 7,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 10,
+            "account_id": 8,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 10,
+            "account_id": 9,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 10,
+            "account_id": 10,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 11,
+            "account_id": 1,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 11,
+            "account_id": 2,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 11,
+            "account_id": 3,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 11,
+            "account_id": 4,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 11,
+            "account_id": 5,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 11,
+            "account_id": 6,
+            "haircut": 0.92
+        },
+        {
+            "asset_id": 11,
+            "account_id": 7,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 11,
+            "account_id": 8,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 11,
+            "account_id": 9,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 11,
+            "account_id": 10,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 12,
+            "account_id": 1,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 12,
+            "account_id": 2,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 12,
+            "account_id": 3,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 12,
+            "account_id": 4,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 12,
+            "account_id": 5,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 12,
+            "account_id": 6,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 12,
+            "account_id": 7,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 12,
+            "account_id": 8,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 12,
+            "account_id": 9,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 12,
+            "account_id": 10,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 13,
+            "account_id": 1,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 13,
+            "account_id": 2,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 13,
+            "account_id": 3,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 13,
+            "account_id": 4,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 13,
+            "account_id": 5,
+            "haircut": 0.82
+        },
+        {
+            "asset_id": 13,
+            "account_id": 6,
+            "haircut": 0.8
+        },
+        {
+            "asset_id": 13,
+            "account_id": 7,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 13,
+            "account_id": 8,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 13,
+            "account_id": 9,
+            "haircut": 0.7
+        },
+        {
+            "asset_id": 13,
+            "account_id": 10,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 14,
+            "account_id": 1,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 14,
+            "account_id": 2,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 14,
+            "account_id": 3,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 14,
+            "account_id": 4,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 14,
+            "account_id": 5,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 14,
+            "account_id": 6,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 14,
+            "account_id": 7,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 14,
+            "account_id": 8,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 14,
+            "account_id": 9,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 14,
+            "account_id": 10,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 15,
+            "account_id": 1,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 15,
+            "account_id": 2,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 15,
+            "account_id": 3,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 15,
+            "account_id": 4,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 15,
+            "account_id": 5,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 15,
+            "account_id": 6,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 15,
+            "account_id": 7,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 15,
+            "account_id": 8,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 15,
+            "account_id": 9,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 15,
+            "account_id": 10,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 16,
+            "account_id": 1,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 16,
+            "account_id": 2,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 16,
+            "account_id": 3,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 16,
+            "account_id": 4,
+            "haircut": 0.84
+        },
+        {
+            "asset_id": 16,
+            "account_id": 5,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 16,
+            "account_id": 6,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 16,
+            "account_id": 7,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 16,
+            "account_id": 8,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 16,
+            "account_id": 9,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 16,
+            "account_id": 10,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 17,
+            "account_id": 1,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 17,
+            "account_id": 2,
+            "haircut": 0.91
+        },
+        {
+            "asset_id": 17,
+            "account_id": 3,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 17,
+            "account_id": 4,
+            "haircut": 0.83
+        },
+        {
+            "asset_id": 17,
+            "account_id": 5,
+            "haircut": 0.93
+        },
+        {
+            "asset_id": 17,
+            "account_id": 6,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 17,
+            "account_id": 7,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 17,
+            "account_id": 8,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 17,
+            "account_id": 9,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 17,
+            "account_id": 10,
+            "haircut": 0.78
+        },
+        {
+            "asset_id": 18,
+            "account_id": 1,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 18,
+            "account_id": 2,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 18,
+            "account_id": 3,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 18,
+            "account_id": 4,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 18,
+            "account_id": 5,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 18,
+            "account_id": 6,
+            "haircut": 0.85
+        },
+        {
+            "asset_id": 18,
+            "account_id": 7,
+            "haircut": 0.9
+        },
+        {
+            "asset_id": 18,
+            "account_id": 8,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 18,
+            "account_id": 9,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 18,
+            "account_id": 10,
+            "haircut": 0.88
+        },
+        {
+            "asset_id": 19,
+            "account_id": 1,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 19,
+            "account_id": 2,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 19,
+            "account_id": 3,
+            "haircut": 0.95
+        },
+        {
+            "asset_id": 19,
+            "account_id": 4,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 19,
+            "account_id": 5,
+            "haircut": 0.84
+        },
+        {
+            "asset_id": 19,
+            "account_id": 6,
+            "haircut": 0.77
+        },
+        {
+            "asset_id": 19,
+            "account_id": 7,
+            "haircut": 0.79
+        },
+        {
+            "asset_id": 19,
+            "account_id": 8,
+            "haircut": 0.72
+        },
+        {
+            "asset_id": 19,
+            "account_id": 9,
+            "haircut": 0.74
+        },
+        {
+            "asset_id": 19,
+            "account_id": 10,
+            "haircut": 0.76
+        },
+        {
+            "asset_id": 20,
+            "account_id": 1,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 20,
+            "account_id": 2,
+            "haircut": 0.73
+        },
+        {
+            "asset_id": 20,
+            "account_id": 3,
+            "haircut": 0.71
+        },
+        {
+            "asset_id": 20,
+            "account_id": 4,
+            "haircut": 0.81
+        },
+        {
+            "asset_id": 20,
+            "account_id": 5,
+            "haircut": 0.89
+        },
+        {
+            "asset_id": 20,
+            "account_id": 6,
+            "haircut": 0.94
+        },
+        {
+            "asset_id": 20,
+            "account_id": 7,
+            "haircut": 0.87
+        },
+        {
+            "asset_id": 20,
+            "account_id": 8,
+            "haircut": 0.75
+        },
+        {
+            "asset_id": 20,
+            "account_id": 9,
+            "haircut": 0.86
+        },
+        {
+            "asset_id": 20,
+            "account_id": 10,
+            "haircut": 0.71
+        }
+    ],
+    "limit_matrix": [
+        {
+            "asset_id": 1,
+            "account_id": 1,
+            "max_allocation": 22
+        },
+        {
+            "asset_id": 1,
+            "account_id": 2,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 1,
+            "account_id": 3,
+            "max_allocation": 42
+        },
+        {
+            "asset_id": 1,
+            "account_id": 4,
+            "max_allocation": 36
+        },
+        {
+            "asset_id": 1,
+            "account_id": 5,
+            "max_allocation": 39
+        },
+        {
+            "asset_id": 1,
+            "account_id": 6,
+            "max_allocation": 57
+        },
+        {
+            "asset_id": 1,
+            "account_id": 7,
+            "max_allocation": 47
+        },
+        {
+            "asset_id": 1,
+            "account_id": 8,
+            "max_allocation": 24
+        },
+        {
+            "asset_id": 1,
+            "account_id": 9,
+            "max_allocation": 56
+        },
+        {
+            "asset_id": 1,
+            "account_id": 10,
+            "max_allocation": 44
+        },
+        {
+            "asset_id": 2,
+            "account_id": 1,
+            "max_allocation": 25
+        },
+        {
+            "asset_id": 2,
+            "account_id": 2,
+            "max_allocation": 37
+        },
+        {
+            "asset_id": 2,
+            "account_id": 3,
+            "max_allocation": 20
+        },
+        {
+            "asset_id": 2,
+            "account_id": 4,
+            "max_allocation": 32
+        },
+        {
+            "asset_id": 2,
+            "account_id": 5,
+            "max_allocation": 31
+        },
+        {
+            "asset_id": 2,
+            "account_id": 6,
+            "max_allocation": 34
+        },
+        {
+            "asset_id": 2,
+            "account_id": 7,
+            "max_allocation": 34
+        },
+        {
+            "asset_id": 2,
+            "account_id": 8,
+            "max_allocation": 43
+        },
+        {
+            "asset_id": 2,
+            "account_id": 9,
+            "max_allocation": 34
+        },
+        {
+            "asset_id": 2,
+            "account_id": 10,
+            "max_allocation": 36
+        },
+        {
+            "asset_id": 3,
+            "account_id": 1,
+            "max_allocation": 31
+        },
+        {
+            "asset_id": 3,
+            "account_id": 2,
+            "max_allocation": 30
+        },
+        {
+            "asset_id": 3,
+            "account_id": 3,
+            "max_allocation": 28
+        },
+        {
+            "asset_id": 3,
+            "account_id": 4,
+            "max_allocation": 21
+        },
+        {
+            "asset_id": 3,
+            "account_id": 5,
+            "max_allocation": 30
+        },
+        {
+            "asset_id": 3,
+            "account_id": 6,
+            "max_allocation": 25
+        },
+        {
+            "asset_id": 3,
+            "account_id": 7,
+            "max_allocation": 33
+        },
+        {
+            "asset_id": 3,
+            "account_id": 8,
+            "max_allocation": 30
+        },
+        {
+            "asset_id": 3,
+            "account_id": 9,
+            "max_allocation": 23
+        },
+        {
+            "asset_id": 3,
+            "account_id": 10,
+            "max_allocation": 33
+        },
+        {
+            "asset_id": 4,
+            "account_id": 1,
+            "max_allocation": 90
+        },
+        {
+            "asset_id": 4,
+            "account_id": 2,
+            "max_allocation": 104
+        },
+        {
+            "asset_id": 4,
+            "account_id": 3,
+            "max_allocation": 69
+        },
+        {
+            "asset_id": 4,
+            "account_id": 4,
+            "max_allocation": 25
+        },
+        {
+            "asset_id": 4,
+            "account_id": 5,
+            "max_allocation": 106
+        },
+        {
+            "asset_id": 4,
+            "account_id": 6,
+            "max_allocation": 99
+        },
+        {
+            "asset_id": 4,
+            "account_id": 7,
+            "max_allocation": 20
+        },
+        {
+            "asset_id": 4,
+            "account_id": 8,
+            "max_allocation": 28
+        },
+        {
+            "asset_id": 4,
+            "account_id": 9,
+            "max_allocation": 123
+        },
+        {
+            "asset_id": 4,
+            "account_id": 10,
+            "max_allocation": 66
+        },
+        {
+            "asset_id": 5,
+            "account_id": 1,
+            "max_allocation": 95
+        },
+        {
+            "asset_id": 5,
+            "account_id": 2,
+            "max_allocation": 38
+        },
+        {
+            "asset_id": 5,
+            "account_id": 3,
+            "max_allocation": 45
+        },
+        {
+            "asset_id": 5,
+            "account_id": 4,
+            "max_allocation": 56
+        },
+        {
+            "asset_id": 5,
+            "account_id": 5,
+            "max_allocation": 33
+        },
+        {
+            "asset_id": 5,
+            "account_id": 6,
+            "max_allocation": 31
+        },
+        {
+            "asset_id": 5,
+            "account_id": 7,
+            "max_allocation": 38
+        },
+        {
+            "asset_id": 5,
+            "account_id": 8,
+            "max_allocation": 41
+        },
+        {
+            "asset_id": 5,
+            "account_id": 9,
+            "max_allocation": 40
+        },
+        {
+            "asset_id": 5,
+            "account_id": 10,
+            "max_allocation": 89
+        },
+        {
+            "asset_id": 6,
+            "account_id": 1,
+            "max_allocation": 38
+        },
+        {
+            "asset_id": 6,
+            "account_id": 2,
+            "max_allocation": 59
+        },
+        {
+            "asset_id": 6,
+            "account_id": 3,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 6,
+            "account_id": 4,
+            "max_allocation": 41
+        },
+        {
+            "asset_id": 6,
+            "account_id": 5,
+            "max_allocation": 47
+        },
+        {
+            "asset_id": 6,
+            "account_id": 6,
+            "max_allocation": 34
+        },
+        {
+            "asset_id": 6,
+            "account_id": 7,
+            "max_allocation": 25
+        },
+        {
+            "asset_id": 6,
+            "account_id": 8,
+            "max_allocation": 28
+        },
+        {
+            "asset_id": 6,
+            "account_id": 9,
+            "max_allocation": 42
+        },
+        {
+            "asset_id": 6,
+            "account_id": 10,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 7,
+            "account_id": 1,
+            "max_allocation": 22
+        },
+        {
+            "asset_id": 7,
+            "account_id": 2,
+            "max_allocation": 33
+        },
+        {
+            "asset_id": 7,
+            "account_id": 3,
+            "max_allocation": 26
+        },
+        {
+            "asset_id": 7,
+            "account_id": 4,
+            "max_allocation": 25
+        },
+        {
+            "asset_id": 7,
+            "account_id": 5,
+            "max_allocation": 22
+        },
+        {
+            "asset_id": 7,
+            "account_id": 6,
+            "max_allocation": 23
+        },
+        {
+            "asset_id": 7,
+            "account_id": 7,
+            "max_allocation": 27
+        },
+        {
+            "asset_id": 7,
+            "account_id": 8,
+            "max_allocation": 21
+        },
+        {
+            "asset_id": 7,
+            "account_id": 9,
+            "max_allocation": 27
+        },
+        {
+            "asset_id": 7,
+            "account_id": 10,
+            "max_allocation": 33
+        },
+        {
+            "asset_id": 8,
+            "account_id": 1,
+            "max_allocation": 125
+        },
+        {
+            "asset_id": 8,
+            "account_id": 2,
+            "max_allocation": 20
+        },
+        {
+            "asset_id": 8,
+            "account_id": 3,
+            "max_allocation": 176
+        },
+        {
+            "asset_id": 8,
+            "account_id": 4,
+            "max_allocation": 173
+        },
+        {
+            "asset_id": 8,
+            "account_id": 5,
+            "max_allocation": 80
+        },
+        {
+            "asset_id": 8,
+            "account_id": 6,
+            "max_allocation": 76
+        },
+        {
+            "asset_id": 8,
+            "account_id": 7,
+            "max_allocation": 147
+        },
+        {
+            "asset_id": 8,
+            "account_id": 8,
+            "max_allocation": 103
+        },
+        {
+            "asset_id": 8,
+            "account_id": 9,
+            "max_allocation": 131
+        },
+        {
+            "asset_id": 8,
+            "account_id": 10,
+            "max_allocation": 189
+        },
+        {
+            "asset_id": 9,
+            "account_id": 1,
+            "max_allocation": 100
+        },
+        {
+            "asset_id": 9,
+            "account_id": 2,
+            "max_allocation": 97
+        },
+        {
+            "asset_id": 9,
+            "account_id": 3,
+            "max_allocation": 173
+        },
+        {
+            "asset_id": 9,
+            "account_id": 4,
+            "max_allocation": 163
+        },
+        {
+            "asset_id": 9,
+            "account_id": 5,
+            "max_allocation": 110
+        },
+        {
+            "asset_id": 9,
+            "account_id": 6,
+            "max_allocation": 146
+        },
+        {
+            "asset_id": 9,
+            "account_id": 7,
+            "max_allocation": 130
+        },
+        {
+            "asset_id": 9,
+            "account_id": 8,
+            "max_allocation": 122
+        },
+        {
+            "asset_id": 9,
+            "account_id": 9,
+            "max_allocation": 229
+        },
+        {
+            "asset_id": 9,
+            "account_id": 10,
+            "max_allocation": 229
+        },
+        {
+            "asset_id": 10,
+            "account_id": 1,
+            "max_allocation": 164
+        },
+        {
+            "asset_id": 10,
+            "account_id": 2,
+            "max_allocation": 134
+        },
+        {
+            "asset_id": 10,
+            "account_id": 3,
+            "max_allocation": 138
+        },
+        {
+            "asset_id": 10,
+            "account_id": 4,
+            "max_allocation": 118
+        },
+        {
+            "asset_id": 10,
+            "account_id": 5,
+            "max_allocation": 61
+        },
+        {
+            "asset_id": 10,
+            "account_id": 6,
+            "max_allocation": 55
+        },
+        {
+            "asset_id": 10,
+            "account_id": 7,
+            "max_allocation": 154
+        },
+        {
+            "asset_id": 10,
+            "account_id": 8,
+            "max_allocation": 68
+        },
+        {
+            "asset_id": 10,
+            "account_id": 9,
+            "max_allocation": 83
+        },
+        {
+            "asset_id": 10,
+            "account_id": 10,
+            "max_allocation": 95
+        },
+        {
+            "asset_id": 11,
+            "account_id": 1,
+            "max_allocation": 109
+        },
+        {
+            "asset_id": 11,
+            "account_id": 2,
+            "max_allocation": 154
+        },
+        {
+            "asset_id": 11,
+            "account_id": 3,
+            "max_allocation": 149
+        },
+        {
+            "asset_id": 11,
+            "account_id": 4,
+            "max_allocation": 23
+        },
+        {
+            "asset_id": 11,
+            "account_id": 5,
+            "max_allocation": 27
+        },
+        {
+            "asset_id": 11,
+            "account_id": 6,
+            "max_allocation": 41
+        },
+        {
+            "asset_id": 11,
+            "account_id": 7,
+            "max_allocation": 59
+        },
+        {
+            "asset_id": 11,
+            "account_id": 8,
+            "max_allocation": 129
+        },
+        {
+            "asset_id": 11,
+            "account_id": 9,
+            "max_allocation": 146
+        },
+        {
+            "asset_id": 11,
+            "account_id": 10,
+            "max_allocation": 24
+        },
+        {
+            "asset_id": 12,
+            "account_id": 1,
+            "max_allocation": 62
+        },
+        {
+            "asset_id": 12,
+            "account_id": 2,
+            "max_allocation": 53
+        },
+        {
+            "asset_id": 12,
+            "account_id": 3,
+            "max_allocation": 47
+        },
+        {
+            "asset_id": 12,
+            "account_id": 4,
+            "max_allocation": 121
+        },
+        {
+            "asset_id": 12,
+            "account_id": 5,
+            "max_allocation": 158
+        },
+        {
+            "asset_id": 12,
+            "account_id": 6,
+            "max_allocation": 53
+        },
+        {
+            "asset_id": 12,
+            "account_id": 7,
+            "max_allocation": 154
+        },
+        {
+            "asset_id": 12,
+            "account_id": 8,
+            "max_allocation": 66
+        },
+        {
+            "asset_id": 12,
+            "account_id": 9,
+            "max_allocation": 155
+        },
+        {
+            "asset_id": 12,
+            "account_id": 10,
+            "max_allocation": 57
+        },
+        {
+            "asset_id": 13,
+            "account_id": 1,
+            "max_allocation": 30
+        },
+        {
+            "asset_id": 13,
+            "account_id": 2,
+            "max_allocation": 60
+        },
+        {
+            "asset_id": 13,
+            "account_id": 3,
+            "max_allocation": 68
+        },
+        {
+            "asset_id": 13,
+            "account_id": 4,
+            "max_allocation": 73
+        },
+        {
+            "asset_id": 13,
+            "account_id": 5,
+            "max_allocation": 47
+        },
+        {
+            "asset_id": 13,
+            "account_id": 6,
+            "max_allocation": 21
+        },
+        {
+            "asset_id": 13,
+            "account_id": 7,
+            "max_allocation": 20
+        },
+        {
+            "asset_id": 13,
+            "account_id": 8,
+            "max_allocation": 69
+        },
+        {
+            "asset_id": 13,
+            "account_id": 9,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 13,
+            "account_id": 10,
+            "max_allocation": 38
+        },
+        {
+            "asset_id": 14,
+            "account_id": 1,
+            "max_allocation": 184
+        },
+        {
+            "asset_id": 14,
+            "account_id": 2,
+            "max_allocation": 32
+        },
+        {
+            "asset_id": 14,
+            "account_id": 3,
+            "max_allocation": 137
+        },
+        {
+            "asset_id": 14,
+            "account_id": 4,
+            "max_allocation": 70
+        },
+        {
+            "asset_id": 14,
+            "account_id": 5,
+            "max_allocation": 123
+        },
+        {
+            "asset_id": 14,
+            "account_id": 6,
+            "max_allocation": 82
+        },
+        {
+            "asset_id": 14,
+            "account_id": 7,
+            "max_allocation": 200
+        },
+        {
+            "asset_id": 14,
+            "account_id": 8,
+            "max_allocation": 210
+        },
+        {
+            "asset_id": 14,
+            "account_id": 9,
+            "max_allocation": 31
+        },
+        {
+            "asset_id": 14,
+            "account_id": 10,
+            "max_allocation": 176
+        },
+        {
+            "asset_id": 15,
+            "account_id": 1,
+            "max_allocation": 104
+        },
+        {
+            "asset_id": 15,
+            "account_id": 2,
+            "max_allocation": 87
+        },
+        {
+            "asset_id": 15,
+            "account_id": 3,
+            "max_allocation": 43
+        },
+        {
+            "asset_id": 15,
+            "account_id": 4,
+            "max_allocation": 55
+        },
+        {
+            "asset_id": 15,
+            "account_id": 5,
+            "max_allocation": 75
+        },
+        {
+            "asset_id": 15,
+            "account_id": 6,
+            "max_allocation": 94
+        },
+        {
+            "asset_id": 15,
+            "account_id": 7,
+            "max_allocation": 67
+        },
+        {
+            "asset_id": 15,
+            "account_id": 8,
+            "max_allocation": 96
+        },
+        {
+            "asset_id": 15,
+            "account_id": 9,
+            "max_allocation": 77
+        },
+        {
+            "asset_id": 15,
+            "account_id": 10,
+            "max_allocation": 36
+        },
+        {
+            "asset_id": 16,
+            "account_id": 1,
+            "max_allocation": 93
+        },
+        {
+            "asset_id": 16,
+            "account_id": 2,
+            "max_allocation": 101
+        },
+        {
+            "asset_id": 16,
+            "account_id": 3,
+            "max_allocation": 139
+        },
+        {
+            "asset_id": 16,
+            "account_id": 4,
+            "max_allocation": 37
+        },
+        {
+            "asset_id": 16,
+            "account_id": 5,
+            "max_allocation": 56
+        },
+        {
+            "asset_id": 16,
+            "account_id": 6,
+            "max_allocation": 28
+        },
+        {
+            "asset_id": 16,
+            "account_id": 7,
+            "max_allocation": 138
+        },
+        {
+            "asset_id": 16,
+            "account_id": 8,
+            "max_allocation": 74
+        },
+        {
+            "asset_id": 16,
+            "account_id": 9,
+            "max_allocation": 114
+        },
+        {
+            "asset_id": 16,
+            "account_id": 10,
+            "max_allocation": 29
+        },
+        {
+            "asset_id": 17,
+            "account_id": 1,
+            "max_allocation": 65
+        },
+        {
+            "asset_id": 17,
+            "account_id": 2,
+            "max_allocation": 42
+        },
+        {
+            "asset_id": 17,
+            "account_id": 3,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 17,
+            "account_id": 4,
+            "max_allocation": 61
+        },
+        {
+            "asset_id": 17,
+            "account_id": 5,
+            "max_allocation": 42
+        },
+        {
+            "asset_id": 17,
+            "account_id": 6,
+            "max_allocation": 57
+        },
+        {
+            "asset_id": 17,
+            "account_id": 7,
+            "max_allocation": 83
+        },
+        {
+            "asset_id": 17,
+            "account_id": 8,
+            "max_allocation": 48
+        },
+        {
+            "asset_id": 17,
+            "account_id": 9,
+            "max_allocation": 67
+        },
+        {
+            "asset_id": 17,
+            "account_id": 10,
+            "max_allocation": 81
+        },
+        {
+            "asset_id": 18,
+            "account_id": 1,
+            "max_allocation": 126
+        },
+        {
+            "asset_id": 18,
+            "account_id": 2,
+            "max_allocation": 44
+        },
+        {
+            "asset_id": 18,
+            "account_id": 3,
+            "max_allocation": 41
+        },
+        {
+            "asset_id": 18,
+            "account_id": 4,
+            "max_allocation": 102
+        },
+        {
+            "asset_id": 18,
+            "account_id": 5,
+            "max_allocation": 138
+        },
+        {
+            "asset_id": 18,
+            "account_id": 6,
+            "max_allocation": 32
+        },
+        {
+            "asset_id": 18,
+            "account_id": 7,
+            "max_allocation": 65
+        },
+        {
+            "asset_id": 18,
+            "account_id": 8,
+            "max_allocation": 94
+        },
+        {
+            "asset_id": 18,
+            "account_id": 9,
+            "max_allocation": 73
+        },
+        {
+            "asset_id": 18,
+            "account_id": 10,
+            "max_allocation": 133
+        },
+        {
+            "asset_id": 19,
+            "account_id": 1,
+            "max_allocation": 107
+        },
+        {
+            "asset_id": 19,
+            "account_id": 2,
+            "max_allocation": 168
+        },
+        {
+            "asset_id": 19,
+            "account_id": 3,
+            "max_allocation": 148
+        },
+        {
+            "asset_id": 19,
+            "account_id": 4,
+            "max_allocation": 141
+        },
+        {
+            "asset_id": 19,
+            "account_id": 5,
+            "max_allocation": 31
+        },
+        {
+            "asset_id": 19,
+            "account_id": 6,
+            "max_allocation": 92
+        },
+        {
+            "asset_id": 19,
+            "account_id": 7,
+            "max_allocation": 77
+        },
+        {
+            "asset_id": 19,
+            "account_id": 8,
+            "max_allocation": 63
+        },
+        {
+            "asset_id": 19,
+            "account_id": 9,
+            "max_allocation": 106
+        },
+        {
+            "asset_id": 19,
+            "account_id": 10,
+            "max_allocation": 125
+        },
+        {
+            "asset_id": 20,
+            "account_id": 1,
+            "max_allocation": 114
+        },
+        {
+            "asset_id": 20,
+            "account_id": 2,
+            "max_allocation": 61
+        },
+        {
+            "asset_id": 20,
+            "account_id": 3,
+            "max_allocation": 28
+        },
+        {
+            "asset_id": 20,
+            "account_id": 4,
+            "max_allocation": 66
+        },
+        {
+            "asset_id": 20,
+            "account_id": 5,
+            "max_allocation": 95
+        },
+        {
+            "asset_id": 20,
+            "account_id": 6,
+            "max_allocation": 68
+        },
+        {
+            "asset_id": 20,
+            "account_id": 7,
+            "max_allocation": 115
+        },
+        {
+            "asset_id": 20,
+            "account_id": 8,
+            "max_allocation": 79
+        },
+        {
+            "asset_id": 20,
+            "account_id": 9,
+            "max_allocation": 61
+        },
+        {
+            "asset_id": 20,
+            "account_id": 10,
+            "max_allocation": 97
+        }
+    ]
+}}
